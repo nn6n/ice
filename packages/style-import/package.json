@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "rs-module-lexer": "^2.3.0",
-    "magic-string": "^0.27.0"
+    "magic-string": "^0.30.17"
   },
   "publishConfig": {
     "access": "public"
